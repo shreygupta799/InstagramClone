@@ -9,6 +9,6 @@ import androidx.compose.ui.unit.dp
 
 @Composable
 fun login(){
-    Image(painter = painterResource(id = R.drawable.instagramColoured), contentDescription = null,
+    Image(painter = painterResource(id = R.drawable.instagramcoloured), contentDescription = null,
     modifier = Modifier.padding(top = 100.dp))
 }
